@@ -11,3 +11,6 @@
 - 🌻 My nickname is Ong.
 - 👶 I was born on July 19, 2004.
 - 📧 posatorn.yen@spumail.net
+
+### :fire: My Stats :
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PosatornYen&theme=highcontrast" alt="GitHub Streak" /></a>
