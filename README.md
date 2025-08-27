@@ -9,7 +9,7 @@
 ## 🔧 Tech Stack
 - **Languages:** JavaScript, Python, C, C++  
 - **Frontend:** React Native, HTML5, CSS3  
-- **Tools & Others:** Git, Linux Command Line, Figma, Cisco Packet Tracer  
+- **Tools & Others:** Git, Linux Command Line, Figma
 
 ---
 
