@@ -16,7 +16,7 @@
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/posatorn-yen-ura-aba761281/)  
 - 🐙 [GitHub](https://github.com/PosatornYen) 
-- 📧 Email: posatornyenura@gmail.com  
+- 📧 Email: posatorn.yenura@gmail.com  
 
 ---
 
